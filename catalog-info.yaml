@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sample-java
+  description: clrslate sample java application for backstage
+  tags:
+    - java
+  annotations:
+    sonarqube.org/project-key: default/jst4upiyush_sample-java_AZDSPWEUUx090Y8RIgzr
+    backstage.io/source-template: template:default/springboot-template
+spec:
+  type: service
+  lifecycle: experimental
+  owner: team-a
