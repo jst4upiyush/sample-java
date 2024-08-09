@@ -1,3 +1,3 @@
 # sample-java
 
-checking sonar run
+checking sonar run, fixing the action
