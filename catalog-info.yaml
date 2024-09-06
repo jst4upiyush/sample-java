@@ -9,6 +9,7 @@ metadata:
     sonarqube.org/project-key: default/jst4upiyush_sample-java
     backstage.io/source-template: template:default/springboot-template
     backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: jst4upiyush/sample-java
 spec:
   type: service
   lifecycle: experimental
