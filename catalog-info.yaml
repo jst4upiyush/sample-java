@@ -6,7 +6,7 @@ metadata:
   tags:
     - java
   annotations:
-    sonarqube.org/project-key: default/jst4upiyush_sample-java_AZDSPWEUUx090Y8RIgzr
+    sonarqube.org/project-key: default/jst4upiyush_sample-java
     backstage.io/source-template: template:default/springboot-template
     backstage.io/techdocs-ref: dir:.
 spec:
